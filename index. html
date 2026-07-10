@@ -1,6 +1,6 @@
 
-Here's an interactive HTML document that turns your device camera into a barcode and QR code scanner using the html5-qrcode library.
-
+/* Here's an interactive HTML document that turns your device camera into a barcode and QR code scanner using the html5-qrcode library.
+*/
 ```html
 <!DOCTYPE html>
 <html lang="en">
