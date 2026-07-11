@@ -1,6 +1,6 @@
 >>>Johnrye Taba<<<
 
--check Item Price must faster than typing in Ecom. (for 2nd to 4th person).
+-Check Item Price faster than typing in Ecom. (for 2nd to 4th person).
 
 -Check item serial number
 
@@ -12,3 +12,4 @@
 -check items for General Inventory without internet. 
 
 -Check item warranty. 
+-Find missing items
