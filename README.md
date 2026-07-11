@@ -7,4 +7,4 @@
 ---- Upcoming features -----
 -Use to create and track pull-out (For Clover and SGDN). 
 
--Use to check items for General Inventory
+-Use to check items for General Inventory without internet. 
